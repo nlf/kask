@@ -1,0 +1,15 @@
+{
+  "name": "kask",
+  "version": "1.0.0",
+  "description": "kubernetes as kode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
